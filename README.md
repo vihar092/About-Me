@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vihar Jethava</h1>
 
 <h3 align="center">
-Computer Engineering Student | MERN Stack Developer | Java Programmer
+Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 </h3>
 
 <hr>
@@ -28,7 +28,7 @@ Computer Engineering Student | MERN Stack Developer | Java Programmer
 
 <tr>
 <td><b>Frontend</b></td>
-<td>React.js, Bootstrap</td>
+<td>React.js</td>
 </tr>
 
 <tr>
@@ -43,7 +43,7 @@ Computer Engineering Student | MERN Stack Developer | Java Programmer
 
 <tr>
 <td><b>Tools</b></td>
-<td>Git, GitHub, VS Code, Postman</td>
+<td>Git, GitHub, VS Code</td>
 </tr>
 </table>
 <h2>🛠 Languages & Tools</h2>
