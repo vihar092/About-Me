@@ -51,8 +51,9 @@ Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,github,vscode,bootstrap,postman" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,sqlite,git,github,vscode,bootstrap,tailwind,postman,npm,linux,bash,vercel,netlify,firebase" />
+</p>
 <h2>📫 Connect With Me</h2>
 
 <p>
