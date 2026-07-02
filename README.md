@@ -23,7 +23,7 @@ Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td>Java, JavaScript, HTML, CSS</td>
+<td>Java, Python, C, C++, JavaScript, HTML, CSS</td>
 </tr>
 
 <tr>
@@ -38,14 +38,20 @@ Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 
 <tr>
 <td><b>Database</b></td>
-<td>MongoDB</td>
+<td>MongoDB, MySQL, SQLite</td>
 </tr>
 
 <tr>
 <td><b>Tools</b></td>
-<td>Git, GitHub, VS Code</td>
+<td>Git, GitHub, VS Code, Firebase</td>
 </tr>
 </table>
+
+<h2>🛠 Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,sqlite,git,firebase" />
+</p>
 <h2>🛠 Languages & Tools</h2>
 
 
