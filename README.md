@@ -1,79 +1,139 @@
-
-<img src="https://komarev.com/ghpvc/?username=vihar092&label=Profile%20Views&color=blue&style=flat" />
 <h1 align="center">Hi 👋, I'm Vihar Jethava</h1>
-
 <h3 align="center">
-Computer Science Engineering Student | MERN Stack Developer | Java Programmer
+Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 </h3>
 
-<hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushirajyaguru&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<h2>👨‍💻 About Me</h2>
+---
 
-<ul>
-    <li>🎓 Computer Engineering Student</li>
-    <li>🌱 Currently learning MERN Stack & Java</li>
-    <li>💻 Passionate about Full Stack Development</li>
-    <li>📚 Learning Data Structures & Algorithms</li>
-    <li>🚀 Building projects to improve my skills</li>
-</ul>
+# 💫 About Me
 
-<hr>
+🎓 B.Tech Computer Science Engineering Student
 
-<h2>🛠 Skills</h2>
+💻 Passionate about **Java, Data Structures & Algorithms, Full-Stack Development, and Artificial Intelligence**
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>Java, Python, C, C++, JavaScript, HTML, CSS</td>
-</tr>
+🚀 Completed **2 Technical Internships**
+- 🌐 **Python with Django Intern** (15 Days) at **Brainy Beams**
+- ⚛️ **React.js Developer Intern** (1.5 Months) at **Ally Soft Solution**
 
-<tr>
-<td><b>Frontend</b></td>
-<td>React.js</td>
-</tr>
+🧠 Currently exploring
+- Artificial Intelligence
+- Modern Web Technologies
+- Backend Development
+- Cloud & DevOps
+- Open Source
 
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js, Express.js</td>
-</tr>
+🌱 I enjoy learning new technologies, building real-world applications, and continuously improving my problem-solving skills.
 
-<tr>
-<td><b>Database</b></td>
-<td>MongoDB, MySQL, SQLite</td>
-</tr>
+---
 
-<tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, VS Code, Firebase</td>
-</tr>
-</table>
+# 🛠️ Tech Stack
 
-<h2>🛠 Languages & Tools</h2>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### AI / ML
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# 🚀 Current Focus
+
+- ☕ Mastering Java & DSA
+- ⚛️ Building Full-Stack MERN Applications
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- ☁️ Learning Cloud & DevOps Fundamentals
+- 💡 Contributing to Open Source Projects
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,nodejs,express,mongodb,mysql,sqlite,git,firebase" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rushirajyaguru&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushirajyaguru&theme=tokyonight"/>
 </p>
-
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vihar092&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushirajyaguru&layout=compact&theme=tokyonight"/>
 </p>
 
+---
 
-<h2>📫 Connect With Me</h2>
+# 🏆 GitHub Trophies
 
-<p>
-
-<a href="https://www.linkedin.com/in/viharjethava/">LinkedIn</a>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rushirajyaguru&theme=tokyonight&margin-w=10&margin-h=10"/>
 </p>
 
-<hr>
+---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+# 📊 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushirajyaguru&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🎯 2026 Goals
+
+✔ Solve 500+ LeetCode Problems
+
+✔ Become a Strong Java Backend Developer
+
+✔ Build AI-Powered Full-Stack Applications
+
+✔ Learn AWS & DevOps
+
+✔ Contribute to Open Source
+
+✔ Secure a Software Development Internship
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/vihar092">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/viharjethava">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jethvavihar627@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>💡 "Always learning, always building, always exploring."</i>
+</p>
