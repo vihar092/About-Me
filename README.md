@@ -56,6 +56,15 @@ Computer Science Engineering Student | MERN Stack Developer | Java Programmer
 </p>
 
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vihar092&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
 <h2>📫 Connect With Me</h2>
 
 <p>
