@@ -72,23 +72,19 @@ Java Developer • MERN Stack Learner • AI Enthusiast • Tech Explorer
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vihar092&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=vihar092&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vihar092&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=vihar092&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihar092&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihar092&layout=compact&theme=tokyonight"/>
 </p>
----
-
-
----
 
 # 📊 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vihar092&theme=tokyo-night)](https://github.com/vihar092/github)
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihar092&theme=tokyo-night"/>
+</p>
 
 # 🎯 2026 Goals
 
